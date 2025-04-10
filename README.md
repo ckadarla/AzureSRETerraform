@@ -1,5 +1,3 @@
-Sure! Here's the content formatted exactly as a `README.md` file for use in a GitHub repository:
-
 # Azure SRE Interview Questions and Answers
 
 This document provides a curated list of **50 technical interview questions and answers** tailored for a role focused on operating and enhancing cybersecurity data lakes, platform engineering in Azure, and Site Reliability Engineering (SRE) principles.
