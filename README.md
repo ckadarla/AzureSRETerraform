@@ -313,13 +313,7 @@ This document contains a comprehensive set of curated questions and answers to h
 
 ---
 
-## ⏱️ Availability
-
-**Q29. What’s your current notice period?**  
-**A:** I’m available to join within 15–30 days. I can negotiate my notice if required.
-
----
-## 📘 Advanced Interview Questions (Q30 - Q50)
+# 📘 Advanced Interview Questions (Q30 - Q50)
 
 ### Q30: How do you ensure compliance with operational risk management standards in Azure?
 
